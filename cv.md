@@ -2,6 +2,7 @@
 
 *   (+86)182-0013-5126
 *   <woxuankai@gmail.com>
+*   [GitHub: woxuankai](https://github.com/woxuankai)
 *   四川省成都市一环路东一段240号  610054  
     电子科技大学（沙河校区）欣苑学生公寓二栋
 
