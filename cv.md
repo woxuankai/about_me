@@ -1,6 +1,7 @@
 #   宣锴
 
-*   (+86)187-6237-9110  <woxuankai@gmail.com>
+*   (+86)187-6237-9110
+*   <woxuankai@gmail.com>
 *   [GitHub: woxuankai](https://github.com/woxuankai)
 *   四川省成都市一环路东一段240号  610054  
     电子科技大学（沙河校区）欣苑学生公寓二栋
@@ -32,11 +33,11 @@
     2016人民一等奖学金
 
 ##  技能清单
-1.  常用编程语言: Bash = Python > C = Matlab > C++
+1.  常用编程语言: Bash, Python, C, C++, Matlab
 2.  一年模拟电路设计经验   
     两年嵌入式设计经验
 3.  数字图像处理: OpenCV/Matlab
-4.  医学图像处理: ITK
+4.  医学图像处理: ITK, 配准, 分割
 5.  数字信号处理: 熟练处理电生理信号
 6.  熟悉部分医疗器械原理：包括医学成像设备，生物电采集设备等
 
