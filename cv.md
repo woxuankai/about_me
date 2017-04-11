@@ -38,8 +38,8 @@
     2016人民一等奖学金
 
 ##  技能清单
-1.  常用编程语言: Bash, C, C++ (包括 make, cmake), Python, Matlab  
-    熟练使用Linux  
+1.  常用编程语言: Bash, C, C++ (包括 make, cmake), Python, Matlab   
+    熟练使用Linux  
 2.  医学图像处理: ITK, 配准, 分割
 3.  数字图像处理: OpenCV/Matlab
 4.  一年模拟电路设计经验   
