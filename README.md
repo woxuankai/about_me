@@ -3,4 +3,4 @@
 *   (+86)187-6237-9110
 *   <woxuankai@gmail.com>
 
-click "cv.md" for more details
+click ["cv.md"](https://github.com/woxuankai/about_me/blob/master/cv.md) for more details
