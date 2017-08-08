@@ -2,7 +2,7 @@
 
 * (+86)187-6237-9110
 * <woxuankai@gmail.com>
-* [GitHub: woxuankai](https://github.com/woxuankai)
+* [GitHub: woxuankai](https://github.com/woxuankai/)
 * 四川省成都市一环路东一段240号  610054  
   电子科技大学（沙河校区）欣苑学生公寓二栋
 
@@ -10,20 +10,20 @@
 * 宣锴/男/1995
 * 学士/电子科技大学/生物医学工程专业/2013.9.1-2017.6.30  
   加权平均分 86.87/100  GPA 3.87/4  专业排名 4/68
-* 博士/上海交通大学/生物医学工程学院/医学图像计算实验室/2017.9- (待入学)  
+* 博士/上海交通大学/生物医学工程专业/[医学图像计算实验室](http://mic.sjtu.edu.cn/)/2017.9- (待入学)  
   导师: 王乾
 * CET-4 574;  CET-6 568; 四六级口语 B; IELTS 6.0
 
 ## 科研经历&获奖经历
-* 生物视觉计算模型的高效实现及其在图像及视频处理中的应用（项目负责人）[Source Code](https://github.com/woxuankai/HDR)   
+* 生物视觉计算模型的高效实现及其在图像及视频处理中的应用（项目负责人）[Source Code](https://github.com/woxuankai/HDR/)   
   指导老师: 李永杰 教授  
   多种语言实现算法，将代码运行速度优化至原来的百倍以上
 
-* 华西医院标本库监测系统（项目组成员）[Source Code](https://github.com/woxuankai/project_sperm)  
+* 华西医院标本库监测系统（项目组成员）[Source Code](https://github.com/woxuankai/project_sperm/)  
   指导老师: 张会雄 副教授  
   实现多种解决方案，有效节约成本，同时确保7x24小时工作
 
-* 本科毕业设计《基于多图谱配准的心脏图像分割方法探究》[Source Code/ Thesis](https://github.com/woxuankai/cardiacMRISeg)  
+* 本科毕业设计《基于多图谱配准的心脏图像分割方法探究》[Source Code/ Thesis](https://github.com/woxuankai/cardiacMRISeg/)  
   指导老师: 李纯明 教授
 
 * **2015年全国大学生电子设计竞赛四川赛区 一等奖**  
