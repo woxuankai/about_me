@@ -34,9 +34,10 @@ Computer vision, medical image processing, deep learning, machine learning
   - Advisor: Prof. Yongjie Li
   - Implement and optimize an HDR algorithm for running at 30 fps on an embedded system.
 
-- *Monitoring system for hospital sperm bank* (client only)
+- *Monitoring system for hospital sperm bank*
 [Source Code](https://github.com/woxuankai/project_sperm/)  
   - Advisor: Dr. Huixiong Zhang
+  - Responsible for clients only.
   - Low cost, high reliability and high flexibility. Both Cortex-M + FreeRTOS and Cortex-A + Linux solutions.
 
 ## SKILLS
