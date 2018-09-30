@@ -6,46 +6,38 @@
 * [GitHub: woxuankai](https://github.com/woxuankai/)
 * Med-X Research Institute, 1954 Huashan Road, Shanghai, 200030, China PRC
 
-# RESEARCH INTERESTS
+## RESEARCH INTERESTS
 
 Computer vision, medical image processing, deep learning, machine learning
 
-# EDUCATION
-## PhD, Biomedical Engineering, Shanghai Jiao Tong University (SJTU)
-* Sep. 2017 - Jun. 2022 (expected)
-* Advisor: Dr. Qian Wang
-* [The Medical Image Computing (MIC) Lab](http://mic.sjtu.edu.cn/)
+## EDUCATION
 
-## BS, Biomedical Engineering, University of Electronic Science and Technology of China (UESTC)
-* Sep. 2013 - Jun. 2017
-* Outstanding Graduate Award (2017)
-* GPA:3.87/4 Ranking:4/68
+* PhD, Biomedical Engineering, Shanghai Jiao Tong University (SJTU)
+  * Sep. 2017 - Jun. 2022 (expected)
+  * Advisor: Dr. Qian Wang
+  * [The Medical Image Computing (MIC) Lab](http://mic.sjtu.edu.cn/)
 
-## 科研经历&获奖经历
-* 
-* 生物视觉计算模型的高效实现及其在图像及视频处理中的应用（项目负责人）[Source Code](https://github.com/woxuankai/HDR/)   
-  指导老师: 李永杰 教授  
-  多种语言实现算法，将代码运行速度优化至原来的百倍以上
+* BS, Biomedical Engineering, University of Electronic Science and Technology of China (UESTC)
+  * Sep. 2013 - Jun. 2017
+  * Outstanding Graduate Award (2017)
+  * GPA:3.87/4, Ranking:4/68
 
-* 华西医院标本库监测系统（项目组成员）[Source Code](https://github.com/woxuankai/project_sperm/)  
-  指导老师: 张会雄 副教授  
-  实现多种解决方案，有效节约成本，同时确保7x24小时工作
+## PROJECT EXPERIENCES
+
+* Efficient implementation of bio-visual computing model and its application in image and video processing [Source Code](https://github.com/woxuankai/HDR/)
+  * Director: Prof. Yongjie Li
+  * Implement and optimize an HDR algorithm for running at 30 fps on an embedded system.
+
+* Monitoring system for hospital sperm bank (client) [Source Code](https://github.com/woxuankai/project_sperm/)  
+  * Director: Dr. Huixiong Zhang
+  * Low cost, high reliability and flexibility. Both Cortex-M + FreeRTOS and Cortex-A + Linux solutions.
+
 
 * 本科毕业设计《基于多图谱配准的心脏图像分割方法探究》[Source Code/ Thesis](https://github.com/woxuankai/cardiacMRISeg/)  
-  指导老师: 李纯明 教授
+  * 指导老师: 李纯明 教授
 
-## 技能清单
-1. 常用编程语言: Bash, Python, C, C++ ,  Matlab  
-   熟练使用Linux
-2. 医学图像处理: ITK, 配准, 分割
-3. 数字图像处理: OpenCV/Matlab
-4. 一年模拟电路设计经验  
-   两年嵌入式设计经验
-5. 数字信号处理: 熟练处理电生理信号等
-6. 熟悉部分医疗设备原理：包括医学成像设备，生物电采集设备等
-
-## 关于我
-* 擅长计算机编程，熟悉硬件（数字/模拟），数理基础扎实。有众多竞赛经验、项目经验。
+## SKILLS
+Python, C/C++, Matlab, Linux
 
 [Get the latest version](https://github.com/woxuankai/about_me/blob/master/cv.md)
 
