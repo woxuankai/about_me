@@ -18,9 +18,8 @@ Computer vision, medical image processing, deep learning, machine learning
 
 ## BS, Biomedical Engineering, University of Electronic Science and Technology of China (UESTC)
 * Sep. 2013 - Jun. 2017
-* Outstanding Graduate
+* Outstanding Graduate Award (2017)
 * GPA:3.87/4 Ranking:4/68
-
 
 ## 科研经历&获奖经历
 * 
@@ -35,18 +34,6 @@ Computer vision, medical image processing, deep learning, machine learning
 * 本科毕业设计《基于多图谱配准的心脏图像分割方法探究》[Source Code/ Thesis](https://github.com/woxuankai/cardiacMRISeg/)  
   指导老师: 李纯明 教授
 
-* **2015年全国大学生电子设计竞赛四川赛区 一等奖**  
-  2015年电子科技大学“盟升杯”大学生电子设计竞赛 二等奖  
-  第五届“科沃斯”杯智能机器人设计竞赛 一等奖  
-  电子科技大学第六届京信杯电子设计大赛 二等奖  
-  电子科技大学第二届汽车电子设计大赛 二等奖  
-  电子科技大学2014年启航杯电子设计训练赛 二等奖
-
-* **2017届电子科技大学优秀毕业生**  
-  2014人民二等奖学金  
-  2015人民一等奖学金  
-  2016人民一等奖学金
-
 ## 技能清单
 1. 常用编程语言: Bash, Python, C, C++ ,  Matlab  
    熟练使用Linux
@@ -59,7 +46,7 @@ Computer vision, medical image processing, deep learning, machine learning
 
 ## 关于我
 * 擅长计算机编程，熟悉硬件（数字/模拟），数理基础扎实。有众多竞赛经验、项目经验。
-* 感兴趣的领域：医学图像配准分割，机器学习、深度学习。
 
-**_感谢您的阅读，期待您的回复_**  [Get the latest version](https://github.com/woxuankai/about_me/blob/master/cv.md)
+[Get the latest version](https://github.com/woxuankai/about_me/blob/master/cv.md)
+
 
