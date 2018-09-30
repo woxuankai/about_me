@@ -1,20 +1,29 @@
-# 宣锴
+# 宣锴 | Kai XUAN
 
-* (+86)187-6237-9110
-* <woxuankai@gmail.com>
+* PhD Student
+* Institute for Medical Imaging Technology, School of Biomedical Engineering, Shanghai Jiao Tong University
+* <woxuankai@gmail.com>, <kaixuan@sjtu.edu.cn>
 * [GitHub: woxuankai](https://github.com/woxuankai/)
-* 上海市东川路800号 200240  
-  上海交通大学（闵行校区）学生宿舍西46楼
+* Med-X Research Institute, 1954 Huashan Road, Shanghai, 200030, China PRC
 
-## 基本信息
-* 宣锴/男/1995
-* 学士/电子科技大学/生物医学工程专业/2013.9.1-2017.6.30  
-  加权平均分 86.87/100  GPA 3.87/4  专业排名 4/68
-* 博士/上海交通大学/生物医学工程专业/[医学图像计算实验室](http://mic.sjtu.edu.cn/)/2017.9- (在读)  
-  导师: 王乾
-* CET-4 574;  CET-6 568; 四六级口语 B; IELTS 6.0
+# RESEARCH INTERESTS
+
+Computer vision, medical image processing, deep learning, machine learning
+
+# EDUCATION
+## PhD, Biomedical Engineering, Shanghai Jiao Tong University (SJTU)
+* Sep. 2017 - Jun. 2022 (expected)
+* Advisor: Dr. Qian Wang
+* [The Medical Image Computing (MIC) Lab](http://mic.sjtu.edu.cn/)
+
+## BS, Biomedical Engineering, University of Electronic Science and Technology of China (UESTC)
+* Sep. 2013 - Jun. 2017
+* Outstanding Graduate
+* GPA:3.87/4 Ranking:4/68
+
 
 ## 科研经历&获奖经历
+* 
 * 生物视觉计算模型的高效实现及其在图像及视频处理中的应用（项目负责人）[Source Code](https://github.com/woxuankai/HDR/)   
   指导老师: 李永杰 教授  
   多种语言实现算法，将代码运行速度优化至原来的百倍以上
@@ -39,7 +48,7 @@
   2016人民一等奖学金
 
 ## 技能清单
-1. 常用编程语言: Bash, C, C++ (包括 make, cmake), Python, Matlab  
+1. 常用编程语言: Bash, Python, C, C++ ,  Matlab  
    熟练使用Linux
 2. 医学图像处理: ITK, 配准, 分割
 3. 数字图像处理: OpenCV/Matlab
