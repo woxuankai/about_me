@@ -24,10 +24,14 @@ Computer vision, medical image processing, deep learning, machine learning
 
 ## PROJECT EXPERIENCES
 
+- *Software tools for analysis of knee joint cartilage and its clinical application* (Shanghai Scientific Research Plan Project)
+  - Advisor: Dr. Qian Wang
+  - Responsible for segmentation of bones and cartilages from knee MR images, classification of osteoarthritis of knee from MR images, cartilage development analysis, and GUI development.
+
 - *Segmentation of dynamic cardiac MR images using multi-altas method* (undergraduate dissertation)
 [Source Code/ Thesis](https://github.com/woxuankai/cardiacMRISeg/)  
   - Advisor: Prof. Chunming Li
-  - Segment left ventricular using multi-altas method.
+  - Segmentation of left ventricular using multi-altas method.
 
 - *Efficient implementation of bio-visual computing model and its application in image and video processing*
 [Source Code](https://github.com/woxuankai/HDR/)
