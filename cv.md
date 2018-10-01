@@ -4,7 +4,7 @@
 - Institute for Medical Imaging Technology, School of Biomedical Engineering, Shanghai Jiao Tong University
 - <woxuankai@gmail.com>, <kaixuan@sjtu.edu.cn>
 - [GitHub: woxuankai](https://github.com/woxuankai/)
-- Med-X Research Institute, 1954 Huashan Road, Shanghai, 200030, China PRC
+- Med-X Research Institute, 1954 Huashan Road, Shanghai, 200030, China
 
 ## RESEARCH INTERESTS
 
@@ -29,21 +29,21 @@ Computer vision, medical image processing, deep learning, machine learning
   - Responsible for segmentation of bones and cartilages from knee MR images, classification of osteoarthritis of knee from MR images, cartilage development analysis, and GUI development.
 
 - *Segmentation of dynamic cardiac MR images using multi-altas method* (undergraduate dissertation)
-[Source Code/ Thesis](https://github.com/woxuankai/cardiacMRISeg/)  
+[Source Code/ Thesis](https://github.com/woxuankai/cardiacMRISeg/)
   - Advisor: Prof. Chunming Li
   - Segmentation of left ventricular using multi-altas method.
 
-- *Efficient implementation of bio-visual computing model and its application in image and video processing*
+- *Efficient implementation of bio-visual computing model and its application in video processing*
 [Source Code](https://github.com/woxuankai/HDR/)
   - Advisor: Prof. Yongjie Li
   - Implement and optimize an HDR algorithm for running at 30 fps on an embedded system.
 
-- *Monitoring system for hospital sperm bank*
-[Source Code](https://github.com/woxuankai/project_sperm/)  
+- *Monitoring system for hospital sperm banks*
+[Source Code](https://github.com/woxuankai/project_sperm/)
   - Advisor: Dr. Huixiong Zhang
-  - Responsible for clients only.
+  - Responsible for sensor node.
   - Low cost, high reliability and high flexibility. Both Cortex-M with FreeRTOS and Cortex-A with Linux solutions.
 
 ## SKILLS
-- Python, C/C++, Matlab
-- PyTorch, TensorFlow, Linux
+- Python, Bash, C/C++, Matlab
+- PyTorch, TensorFlow, OpenCV, Linux
