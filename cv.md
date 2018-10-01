@@ -42,7 +42,7 @@ Computer vision, medical image processing, deep learning, machine learning
 [Source Code](https://github.com/woxuankai/project_sperm/)  
   - Advisor: Dr. Huixiong Zhang
   - Responsible for clients only.
-  - Low cost, high reliability and high flexibility. Both Cortex-M + FreeRTOS and Cortex-A + Linux solutions.
+  - Low cost, high reliability and high flexibility. Both Cortex-M with FreeRTOS and Cortex-A with Linux solutions.
 
 ## SKILLS
 - Python, C/C++, Matlab
