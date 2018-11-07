@@ -28,10 +28,10 @@ Computer vision, medical image processing, deep learning, machine learning
   - Advisor: Dr. Qian Wang
   - Responsible for segmentation of bones and cartilages from knee MR images, classification of osteoarthritis of knee from MR images, cartilage development analysis, and GUI development.
 
-- *Segmentation of dynamic cardiac MR images using multi-altas method* (undergraduate dissertation)
+- *Segmentation of dynamic cardiac MR images using multi-atlas method* (undergraduate dissertation)
 [Source Code/ Thesis](https://github.com/woxuankai/cardiacMRISeg/)
   - Advisor: Prof. Chunming Li
-  - Segmentation of left ventricular using multi-altas method.
+  - Segmentation of left ventricular using multi-atlas method.
 
 - *Efficient implementation of bio-visual computing model and its application in video processing*
 [Source Code](https://github.com/woxuankai/HDR/)
