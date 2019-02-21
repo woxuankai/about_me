@@ -4,7 +4,7 @@
 - Institute for Medical Imaging Technology, School of Biomedical Engineering, Shanghai Jiao Tong University
 - <woxuankai@gmail.com>, <kaixuan@sjtu.edu.cn>
 - [GitHub: woxuankai](https://github.com/woxuankai/)
-- Med-X Research Institute, 1954 Huashan Road, Shanghai, 200030, China
+- 1954 Huashan Road, Shanghai, 200030, China
 
 ## RESEARCH INTERESTS
 
