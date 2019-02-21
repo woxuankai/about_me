@@ -4,4 +4,4 @@
 
 click ["cv.md"](https://github.com/woxuankai/about_me/blob/master/cv.md) for more details
 
-try `pandoc ./cv.md --pdf-engine=xelatex -o cv.pdf -V CJKmainfont='SimSun'` for pdf version
+try `pandoc ./cv.md --latex-engine=xelatex -o cv.pdf -V CJKmainfont='SimSun'` for pdf version
