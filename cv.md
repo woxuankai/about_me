@@ -22,7 +22,16 @@ Computer vision, medical image processing, deep learning, machine learning
   - UESTC Outstanding Graduate Award
   - GPA:3.87/4, Ranking:4/68
 
-## PROJECT EXPERIENCES
+## PUBLICATIONS
+1. Kai Xuan, Dongming Wei,
+Dijia Wu, Zhong Xue, Yiqiang Zhan, Weiwu Yao and Qian Wang,
+"Reconstruction of Isotropic High-Resolution MR image
+from Multiple Anisotropic Scans Using Sparse Fidelity Loss
+and Adversarial Regularization."
+In *International Conference on Medical Image Computing
+and Computer-Assisted Intervention (MICCAI)*, 2019.
+
+## PROJECTS
 
 - *Software tools for analysis of knee joint cartilage and its clinical application* (Shanghai Scientific Research Plan Project)
   - Advisor: Dr. Qian Wang
@@ -33,17 +42,3 @@ Computer vision, medical image processing, deep learning, machine learning
   - Advisor: Prof. Chunming Li
   - Segmentation of left ventricular using multi-atlas method.
 
-- *Efficient implementation of bio-visual computing model and its application in video processing*
-[Source Code](https://github.com/woxuankai/HDR/)
-  - Advisor: Prof. Yongjie Li
-  - Implement and optimize an HDR algorithm for running at 30 fps on an embedded system.
-
-- *Monitoring system for hospital sperm banks*
-[Source Code](https://github.com/woxuankai/project_sperm/)
-  - Advisor: Dr. Huixiong Zhang
-  - Responsible for sensor node.
-  - Low cost, high reliability and high flexibility. Both Cortex-M with FreeRTOS and Cortex-A with Linux solutions.
-
-## SKILLS
-- Python, Bash, C/C++, Matlab
-- PyTorch, TensorFlow, OpenCV, Linux
